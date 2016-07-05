@@ -4,6 +4,17 @@
 
 這是第二次修改
 
+
 切回master之後第一次修改
 
 切到bugfix
+
+切到dev分支
+
+切到dev之後的第一次修改
+
+切到dev後的第二次修改
+
+準備rebase
+
+rebase失敗 用merge
