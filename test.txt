@@ -18,3 +18,5 @@
 準備rebase
 
 rebase失敗 用merge
+
+準備遠端要push
